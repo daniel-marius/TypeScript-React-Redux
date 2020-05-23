@@ -1,8 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Example of React-Redux App with TypeScript
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+After cloning the repository, be sure that you run this script, in order to install of the modules listed in the file package.json.
 
 ### `npm start`
 
